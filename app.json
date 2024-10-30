@@ -14,44 +14,44 @@
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
-      "description": "Paste here session id that you have scanned",
+      "description": "Bmwmd$TZUUFpTa",
       "required": true,
       "value": ""
     },
     "MODE": {
       "description": "Enter true for public. no for private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. no for no",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_READ": {
       "description": "Enter true for autoread messages. no for no",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_TYPING": {
       "description": "Enter true for autotype. no for no",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "AUTO_RECORDING": {
       "description": "Enter true if you want bot to show recording audio",
       "required": false,
-      "value": ""
+      "value": "false"
     },
     "ALWAYS_ONLINE": {
       "description": "Enter it true if you want bot to show always online",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "AUTO_BLOCK": {
       "description": "Enter it true if you want bot to auto block only 212 numbers",
       "required": false,
-      "value": ""
+      "value": "true"
     },
     "REJECT_CALL": {
       "description": "Enter it true if you want to reject call",
