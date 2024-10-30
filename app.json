@@ -16,7 +16,7 @@
       "SESSION_ID": {
       "description": "Bmwmd$TZUUFpTa",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "MODE": {
       "description": "Enter true for public. no for private",
